@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 26 20:23:38 2022
+# Process ID: 4696
+# Current directory: D:/PROJECTS/LED/LED.runs/impl_1
+# Command line: vivado.exe -log LED_switch.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LED_switch.tcl -notrace
+# Log file: D:/PROJECTS/LED/LED.runs/impl_1/LED_switch.vdi
+# Journal file: D:/PROJECTS/LED/LED.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source LED_switch.tcl -notrace
